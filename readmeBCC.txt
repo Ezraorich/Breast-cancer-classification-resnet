@@ -1,4 +1,4 @@
-Author: Saltanat Khalyk, Mukhamedjan Karatayev
+Authors: Saltanat Khalyk, Mukhamedjan Karatayev
 
 Topic:  Breast cancer classification using Deep learning models
 Dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-images/
