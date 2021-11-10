@@ -22,7 +22,5 @@ Test 10%
 Validation 10%
 
 Resnet18 accuracy is 80%
-Cancernet will not be used. Showing errors during compilation. 
+Densenet accuracy is 82%
 
-Further:
-we will try Alexnet and VGG16
